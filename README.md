@@ -1,4 +1,4 @@
-# Repository Name
+# Python Scripts for Prompt Engineering Blog Post
 
 This repository contains Python scripts that serve as demonstrations for the article "A Gentle Introduction to Prompt Engineering" on [2ndworst.dev](https://www.2ndworst.dev).
 
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 To run the scripts in this repository, you can use the following command:
 
 ```bash
-python <script_name>.py
+python scripts/<script_name>.py
 ```
 
 ## License
