@@ -33,6 +33,6 @@ python scripts/<script_name>.py
 
 ## License
 
-This repository is licensed under the MIT license.  
+This repository is licensed under the MIT license. See [LICENSE](LICENSE) for details.
 
 
