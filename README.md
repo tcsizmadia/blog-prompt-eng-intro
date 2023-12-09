@@ -23,6 +23,16 @@ Once you have Python installed, you can install dependencies using the following
 pip install -r requirements.txt
 ```
 
+### Install Ollama
+
+To run these scripts you'll need the [Ollama](https://ollama.ai/) tool. If it's not installed yet, please refer to the instructions on the website.
+
+For the examples, we use the '7b' variant of the Llama2 model, which you can retrieve by using the following command:
+
+```bash
+ollama pull llama2:7b
+```
+
 ## Usage
 
 To run the scripts in this repository, you can use the following command:
